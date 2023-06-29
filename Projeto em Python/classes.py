@@ -1,6 +1,6 @@
 #PROGRAMA TESTE PARA CONTRATAÇÃO ESTAGIO QWA SOLUCOES
 #CADASTRO DE CLIENTES XPTO - TRAINEES
-#GITHUB/FELIPERDEVaa
+#GITHUB/FELIPERDEVaad
 
 class Pessoa:
     def __init__(self, nome, sobrenome, cpf, datanasc, maioridade):
